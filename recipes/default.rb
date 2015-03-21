@@ -8,3 +8,5 @@
 #
 
 include_recipe "base-settings::user"
+
+include_recipe "selinux::disabled"
