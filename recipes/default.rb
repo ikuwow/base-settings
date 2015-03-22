@@ -10,3 +10,5 @@
 include_recipe "base-settings::user"
 
 include_recipe "selinux::disabled"
+
+include_recipe "openssh::default"

@@ -1,5 +1,6 @@
 name             'base-settings'
 depends          'selinux', '~> 0.9.0'
+depends          'openssh', '~> 1.3.4'
 maintainer       'ikuwow'
 maintainer_email 'ikuwow'
 license          'All rights reserved'
