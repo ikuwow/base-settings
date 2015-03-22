@@ -18,3 +18,4 @@ suites:
         server:
           password_authentication: "no"
           permit_root_login: "no"
+    data_bags_path: test/data_bags
